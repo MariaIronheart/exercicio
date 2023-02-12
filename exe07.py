@@ -1,0 +1,10 @@
+x = int(17)
+y = float(3.2)
+ 
+print (x / 4 + y)
+#b) 
+print (x * y ** 6)
+#c)
+print ((x%4) ,((y*10) //4))
+#d)
+print ((x / 6 // x / 3) + 4)

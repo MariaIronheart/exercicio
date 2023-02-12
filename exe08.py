@@ -1,0 +1,5 @@
+n = int(input("Número de termos?: "))
+a1 = int(input("Valor inicial?: "))
+an = int(input("Valor final?: "))
+s= (n*(a1 + an)/2)
+print ("A soma equivale a: ", s)

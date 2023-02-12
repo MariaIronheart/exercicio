@@ -1,0 +1,7 @@
+n1 = int(input ("Coloque a primeira nota: ")) 
+n2 = int(input ("Coloque a segunda nota: "))
+n3 = int(input ("Coloque a terceira nota: "))
+m = int((n1+n2+n3)/3)
+ma = ((n1+n2*2+n3*3+m)/7)
+print ("Sua média foi: {}".format (m))
+print ("Sua média de aproveitamento foi: {}".format(ma))
